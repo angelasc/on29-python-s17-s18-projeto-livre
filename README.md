@@ -2,6 +2,39 @@
   <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
+# Reprograma | Bootcamp de Análise de Dados
+## 🚀 Exercícios para Casa 
+Turma Online on29 | Semana 17/18 | 2024 | Professora Jessica Ferreira
+
+Este repositório contém o Projeto Livre desenvolvido durante as **Semanas 17 e 18** do curso de Análise de Dados da turma Online On29 da Reprograma. O projeto foi criado de forma independente, permitindo a aplicação prática dos conhecimentos adquiridos ao longo do curso. 
+
+## 📌 Descrição
+O Projeto Livre tem como objetivo consolidar as habilidades de análise de dados por meio de um estudo de caso escolhido pela estudante. O trabalho envolve **coleta, limpeza, exploração, visualização e interpretação de dados**, culminando na apresentação de insights relevantes.
+
+## 🎯 Objetivos do projeto
+- Definir uma pergunta de pesquisa ou problema a ser analisado.
+- Coletar e limpar os dados necessários.
+- Aplicar análise exploratória para entender padrões e tendências.
+- Criar visualizações para comunicar os insights obtidos.
+- Elaborar um relatório final apresentando as conclusões.
+
+## 📝 Conteúdo do Repositório  
+O repositório está organizado da seguinte maneira:
+- main.py: Código principal contendo a análise de dados.
+- data/: Pasta com os arquivos de dados utilizados.
+- notebooks/: Google Colab Notebooks contendo análises intermediárias.
+- requirements.txt: Lista de dependências do projeto.
+- README.md: Este documento explicativo.
+
+## 🖥️ Tecnologias utilizadas
+- Python: Linguagem principal para análise de dados.
+- Pandas: Manipulação e limpeza de dados.
+- NumPy: Operações matemáticas e estatísticas.
+- Matplotlib & Seaborn: Criação de gráficos e visualizações.
+- Google Colab Notebook: Ambiente interativo para análise e desenvolvimento.
+
+
+
 # Tema da Aula
 
 Turma Online 29 | Python | Semanas 17 e 18 | 2024 | Jessica Ferreira
